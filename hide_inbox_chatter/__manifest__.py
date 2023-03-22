@@ -19,7 +19,7 @@
     ],
     'assets': {
         'web.assets_qweb': [
-            'remove_chat_inbox/static/src/xml/*.xml',
+            'hide_inbox_chatter/static/src/xml/*.xml',
         ],
     },
     'installable': True,
