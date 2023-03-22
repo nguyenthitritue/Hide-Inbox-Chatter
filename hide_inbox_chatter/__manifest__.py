@@ -9,7 +9,7 @@
         Hide Discussion Menu and chatter from Odoo Tray
     """,
     'version': "14.0",
-    'author': "odoo.solution.vn@gmail.com",
+    'author': "odoo.solution.vn",
     'support': 'odoo.solution.vn@gmail.com',
     'images': ['static/description/img.png'],
     'category': 'tools',
