@@ -17,9 +17,11 @@
     'data': [
 
     ],
-    'qweb': [
-        'static/src/xml/template.xml'
-    ],
+    'assets': {
+        'web.assets_qweb': [
+            'remove_chat_inbox/static/src/xml/*.xml',
+        ],
+    },
     'installable': True,
     'application': False,
     'auto_install': False,
