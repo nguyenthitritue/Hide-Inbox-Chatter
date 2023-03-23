@@ -7,7 +7,7 @@
     'description': """
         Hide link to database manager in login screen
     """,
-    'version': "14.0",
+    'version': "16.0",
     'author': "odoo.solution.vn",
     'support': 'odoo.solution.vn@gmail.com',
     'images': ['static/description/img.png'],
