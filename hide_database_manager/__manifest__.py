@@ -13,7 +13,7 @@
     'images': ['static/description/img.png'],
     'category': 'tools',
     'depends': ['base'],
-    'price': 4.99,
+    'price': 1.99,
     'currency': 'USD',
     'data': [
         'views/common_template.xml',
